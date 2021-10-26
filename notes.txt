@@ -1,3 +1,5 @@
 link git hub https://github.com/andrade-klw/github-challenger-DIO
 
 o Gitbash é um terminal - teste
+
+Linux > Windows :D
